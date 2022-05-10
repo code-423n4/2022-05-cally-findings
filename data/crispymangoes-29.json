@@ -1,0 +1,9 @@
+{
+  "contest": 122,
+  "handle": "crispymangoes",
+  "address": "0x69321ecB1CF0f0581d4b75EAfaAF1df01f24b77E",
+  "risk": "2",
+  "title": "setFee has no maximum check",
+  "issueId": 29,
+  "issueUrl": "https://github.com/code-423n4/2022-05-cally-findings/issues/29"
+}
