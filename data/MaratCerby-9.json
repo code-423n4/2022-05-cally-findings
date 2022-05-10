@@ -1,0 +1,9 @@
+{
+  "contest": 122,
+  "handle": "MaratCerby",
+  "address": "0x40385F27D90eb7A7FCa6F521176C6eBADBE57632",
+  "risk": "2",
+  "title": "[2] Fee-on-transfer tokens support must be forbidden or allowed with amount update",
+  "issueId": 9,
+  "issueUrl": "https://github.com/code-423n4/2022-05-cally-findings/issues/9"
+}
