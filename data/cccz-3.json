@@ -1,0 +1,9 @@
+{
+  "contest": 122,
+  "handle": "cccz",
+  "address": "0x74d754378a59Ab45d3E6CaC83f0b87E8E8719270",
+  "risk": "2",
+  "title": " msg.sender is unchecked in exercise(), which can cause user's NFT to be frozen",
+  "issueId": 3,
+  "issueUrl": "https://github.com/code-423n4/2022-05-cally-findings/issues/3"
+}
