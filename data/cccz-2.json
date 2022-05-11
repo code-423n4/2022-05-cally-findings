@@ -1,9 +1,0 @@
-{
-  "contest": 122,
-  "handle": "cccz",
-  "address": "0x74d754378a59Ab45d3E6CaC83f0b87E8E8719270",
-  "risk": "2",
-  "title": "The CallyNft contract does not override the transferFrom function, resulting in an underflow in the transferFrom function",
-  "issueId": 2,
-  "issueUrl": "https://github.com/code-423n4/2022-05-cally-findings/issues/2"
-}
