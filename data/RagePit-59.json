@@ -1,0 +1,9 @@
+{
+  "contest": 122,
+  "handle": "RagePit",
+  "address": "0x147Ea4Cb33e215D24f6e81820B6653D978adc346",
+  "risk": "G",
+  "title": "Gas Optimizations",
+  "issueId": 59,
+  "issueUrl": "https://github.com/code-423n4/2022-05-cally-findings/issues/59"
+}
