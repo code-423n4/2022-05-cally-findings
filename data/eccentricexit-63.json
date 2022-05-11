@@ -1,0 +1,9 @@
+{
+  "contest": 122,
+  "handle": "eccentricexit",
+  "address": "0x00b55eed88b14bf65b422dfa07fbc4941fc0178f",
+  "risk": "3",
+  "title": "Backdoor/Centralization: The owner can prevent an option from being exercised",
+  "issueId": 63,
+  "issueUrl": "https://github.com/code-423n4/2022-05-cally-findings/issues/63"
+}
