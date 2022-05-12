@@ -1,0 +1,9 @@
+{
+  "contest": 122,
+  "handle": "BondiPestControl",
+  "address": "0x28235dE0121700a462B5098Cff7D3615b050551F",
+  "risk": "2",
+  "title": "`createVault()` does not verify ERC20 token contract exists before transferring",
+  "issueId": 85,
+  "issueUrl": "https://github.com/code-423n4/2022-05-cally-findings/issues/85"
+}
