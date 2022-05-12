@@ -1,0 +1,9 @@
+{
+  "contest": 122,
+  "handle": "BondiPestControl",
+  "address": "0x28235dE0121700a462B5098Cff7D3615b050551F",
+  "risk": "2",
+  "title": "User's may accidentally overpay in `buyOption()` and the excess will be paid to the vault creator",
+  "issueId": 84,
+  "issueUrl": "https://github.com/code-423n4/2022-05-cally-findings/issues/84"
+}
