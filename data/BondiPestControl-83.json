@@ -1,0 +1,9 @@
+{
+  "contest": 122,
+  "handle": "BondiPestControl",
+  "address": "0x28235dE0121700a462B5098Cff7D3615b050551F",
+  "risk": "2",
+  "title": "Lack of upper bound on `feeRate` allows the owner to steal all funds of DoS the contract",
+  "issueId": 83,
+  "issueUrl": "https://github.com/code-423n4/2022-05-cally-findings/issues/83"
+}
