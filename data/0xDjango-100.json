@@ -1,0 +1,9 @@
+{
+  "contest": 122,
+  "handle": "0xDjango",
+  "address": "0x886241e011A6C148bdD96B097EB27962f8A1c5F0",
+  "risk": "3",
+  "title": "Fee on transfer tokens cause loss of funds and/or frozen funds for both vault owner and buyer",
+  "issueId": 100,
+  "issueUrl": "https://github.com/code-423n4/2022-05-cally-findings/issues/100"
+}
