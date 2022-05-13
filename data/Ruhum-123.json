@@ -1,0 +1,9 @@
+{
+  "contest": 122,
+  "handle": "Ruhum",
+  "address": "0x1708bdfa333F81993A1eDcFEc6821a3Ec563eA06",
+  "risk": "2",
+  "title": "`buyOption()` allows the buyer to pay more than they need",
+  "issueId": 123,
+  "issueUrl": "https://github.com/code-423n4/2022-05-cally-findings/issues/123"
+}
