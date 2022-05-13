@@ -1,0 +1,9 @@
+{
+  "contest": 122,
+  "handle": "Bludya",
+  "address": "0x4f117ce2d1ce1cb0fea24be74eb93bb98cea634e",
+  "risk": "2",
+  "title": "Protocol fee amount is calculated on exercise, not at vault creation.",
+  "issueId": 155,
+  "issueUrl": "https://github.com/code-423n4/2022-05-cally-findings/issues/155"
+}
