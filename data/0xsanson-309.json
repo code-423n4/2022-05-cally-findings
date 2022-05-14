@@ -1,0 +1,9 @@
+{
+  "contest": 122,
+  "handle": "0xsanson",
+  "address": "0x4DF37CC3C48eC3EB689c8Bf0D91249cE2506f73B",
+  "risk": "3",
+  "title": "`TokenType` mismatch with true type can be exploited to steal funds",
+  "issueId": 309,
+  "issueUrl": "https://github.com/code-423n4/2022-05-cally-findings/issues/309"
+}
