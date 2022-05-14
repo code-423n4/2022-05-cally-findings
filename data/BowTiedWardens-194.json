@@ -1,0 +1,9 @@
+{
+  "contest": 122,
+  "handle": "BowTiedWardens",
+  "address": "0x644AEDa9E5797474B28A656d9e2016A927B0aE1B",
+  "risk": "3",
+  "title": "Loss of funds due to premiums and proceeds accruing to address(0) by default",
+  "issueId": 194,
+  "issueUrl": "https://github.com/code-423n4/2022-05-cally-findings/issues/194"
+}
