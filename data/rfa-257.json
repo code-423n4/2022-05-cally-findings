@@ -1,0 +1,9 @@
+{
+  "contest": 122,
+  "handle": "rfa",
+  "address": "0x95687C27DcE4D413a91A0E1fd0478F4751da8730",
+  "risk": "2",
+  "title": "No check that token address is ERC20/ERC721 address",
+  "issueId": 257,
+  "issueUrl": "https://github.com/code-423n4/2022-05-cally-findings/issues/257"
+}
