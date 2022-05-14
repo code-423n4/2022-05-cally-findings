@@ -1,0 +1,9 @@
+{
+  "contest": 122,
+  "handle": "jah",
+  "address": "0x6ae089D92a2E88CA18a2d463aD32849cB41C4D0f",
+  "risk": "2",
+  "title": "use of transferFrom in ERC721 tokens",
+  "issueId": 163,
+  "issueUrl": "https://github.com/code-423n4/2022-05-cally-findings/issues/163"
+}
