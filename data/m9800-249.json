@@ -1,0 +1,9 @@
+{
+  "contest": 122,
+  "handle": "m9800",
+  "address": "0x367bF4A80DA0Ed955DbeFb228c60fDf20C2f85B2",
+  "risk": "2",
+  "title": "Owner of Cally.sol can set arbitrarily big fees, over 100% and steal the funds.",
+  "issueId": 249,
+  "issueUrl": "https://github.com/code-423n4/2022-05-cally-findings/issues/249"
+}
