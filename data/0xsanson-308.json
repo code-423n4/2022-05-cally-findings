@@ -1,0 +1,9 @@
+{
+  "contest": 122,
+  "handle": "0xsanson",
+  "address": "0x4DF37CC3C48eC3EB689c8Bf0D91249cE2506f73B",
+  "risk": "2",
+  "title": "Fee-on-transfer / rebasing ERC20 cannot be used as underlying",
+  "issueId": 308,
+  "issueUrl": "https://github.com/code-423n4/2022-05-cally-findings/issues/308"
+}
