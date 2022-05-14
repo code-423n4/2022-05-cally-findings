@@ -1,0 +1,9 @@
+{
+  "contest": 122,
+  "handle": "_Adam",
+  "address": "0xa1a0cb3ce40dc9ef78f05563047f286640dce552",
+  "risk": "2",
+  "title": "Contract Owner can alter feeRate to gain vault owners assets. ",
+  "issueId": 167,
+  "issueUrl": "https://github.com/code-423n4/2022-05-cally-findings/issues/167"
+}
