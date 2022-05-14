@@ -1,0 +1,9 @@
+{
+  "contest": 122,
+  "handle": "GimelSec",
+  "address": "0x8595B7e8F4d3287248DB45AcA4Ba4EaCFe4Ab78e",
+  "risk": "2",
+  "title": "If users don’t handle ERC721 received, the ERC721 token will be frozen",
+  "issueId": 246,
+  "issueUrl": "https://github.com/code-423n4/2022-05-cally-findings/issues/246"
+}
