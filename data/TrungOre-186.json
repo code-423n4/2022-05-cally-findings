@@ -1,0 +1,9 @@
+{
+  "contest": 122,
+  "handle": "TrungOre",
+  "address": "0x1A4f547AeACB962B67Ec2fa35b803DA4F5f9b9D0",
+  "risk": "2",
+  "title": "User can't exercise also withdraw the token in the vault if token is deflationary tokens ERC20",
+  "issueId": 186,
+  "issueUrl": "https://github.com/code-423n4/2022-05-cally-findings/issues/186"
+}
